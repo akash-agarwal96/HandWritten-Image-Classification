@@ -1,1 +1,1 @@
-# HandWritten-Image-Classification
+# HandWritten Image Classification using ANN
